@@ -1,0 +1,2 @@
+docker build -t akamai-cli .
+docker run --name akamai-purge -d --env-file .env akamai-cli

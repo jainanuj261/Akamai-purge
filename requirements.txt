@@ -1,0 +1,3 @@
+slack_bolt
+python-jenkins
+python-dotenv
